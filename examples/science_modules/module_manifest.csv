@@ -1,0 +1,29 @@
+module_key,domain_label,nodes_file,edges_file,node_count,internal_edge_count,cross_domain_edge_count
+mathematical_sciences,Mathematical Sciences,mathematical_sciences_nodes.csv,mathematical_sciences_edges.csv,181,214,29
+probability_statistics,Probability Statistics and Data Science,probability_statistics_nodes.csv,probability_statistics_edges.csv,143,165,16
+fundamental_physics,Fundamental Physics,fundamental_physics_nodes.csv,fundamental_physics_edges.csv,153,193,29
+astronomy_cosmology,Astronomy Cosmology and Space Science,astronomy_cosmology_nodes.csv,astronomy_cosmology_edges.csv,148,178,6
+chemical_sciences,Chemical Sciences,chemical_sciences_nodes.csv,chemical_sciences_edges.csv,145,169,9
+materials_science,Materials Science and Nanotechnology,materials_science_nodes.csv,materials_science_edges.csv,137,159,3
+earth_geosciences,Earth and Geosciences,earth_geosciences_nodes.csv,earth_geosciences_edges.csv,135,158,8
+climate_atmosphere,Climate and Atmospheric Science,climate_atmosphere_nodes.csv,climate_atmosphere_edges.csv,139,161,11
+ocean_marine,Ocean and Marine Sciences,ocean_marine_nodes.csv,ocean_marine_edges.csv,136,159,5
+environment_ecology,Environmental Science and Ecology,environment_ecology_nodes.csv,environment_ecology_edges.csv,138,160,6
+organismal_biology,Organismal and Developmental Biology,organismal_biology_nodes.csv,organismal_biology_edges.csv,134,158,31
+evolution_ecology,Evolutionary Biology,evolution_ecology_nodes.csv,evolution_ecology_edges.csv,136,160,8
+genetics_genomics,Genetics Genomics and Epigenetics,genetics_genomics_nodes.csv,genetics_genomics_edges.csv,141,163,19
+biochemistry_molecular,Biochemistry and Molecular Biology,biochemistry_molecular_nodes.csv,biochemistry_molecular_edges.csv,147,177,18
+microbiology_virology,Microbiology Virology and Immunology,microbiology_virology_nodes.csv,microbiology_virology_edges.csv,137,161,5
+neuroscience,Neuroscience and Neurobiology,neuroscience_nodes.csv,neuroscience_edges.csv,153,172,36
+cognitive_behavioral,Cognitive and Behavioral Sciences,cognitive_behavioral_nodes.csv,cognitive_behavioral_edges.csv,136,155,29
+medical_health,Medical and Health Sciences,medical_health_nodes.csv,medical_health_edges.csv,139,163,10
+public_population_health,Public Health and Epidemiology,public_population_health_nodes.csv,public_population_health_edges.csv,137,160,5
+computer_science,Computer Science,computer_science_nodes.csv,computer_science_edges.csv,142,176,17
+ai_machine_learning,Artificial Intelligence and Machine Learning,ai_machine_learning_nodes.csv,ai_machine_learning_edges.csv,143,168,24
+engineering_technology,Engineering and Technology,engineering_technology_nodes.csv,engineering_technology_edges.csv,139,162,6
+quantum_technology,Quantum Science and Technology,quantum_technology_nodes.csv,quantum_technology_edges.csv,134,152,12
+agricultural_food_veterinary,Agricultural Food and Veterinary Sciences,agricultural_food_veterinary_nodes.csv,agricultural_food_veterinary_edges.csv,135,159,2
+systems_complexity,Systems Complexity and Interdisciplinary Science,systems_complexity_nodes.csv,systems_complexity_edges.csv,135,158,34
+social_sciences,Social and Economic Sciences,social_sciences_nodes.csv,social_sciences_edges.csv,139,162,2
+science_studies,Philosophy History and Methodology of Science,science_studies_nodes.csv,science_studies_edges.csv,133,155,4
+cross_domain_bridges,Cross-domain bridges,cross_domain_nodes.csv,cross_domain_edges.csv,168,192,192

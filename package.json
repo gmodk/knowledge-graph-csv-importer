@@ -1,0 +1,10 @@
+{
+  "name": "universal-csv-graph-importer",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Local-first universal CSV to 2D/3D graph explorer",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "bundle": "node examples/build_science_sample.mjs && node examples/expand_science_atlas.mjs && node make-sample-data.mjs && node bundle.mjs"
+  }
+}
