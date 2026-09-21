@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="color-scheme" content="dark">
   <title>Universal CSV Constellation</title>
-  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="feature.css"><link rel="stylesheet" href="mobile.css">
+  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="feature.css"><link rel="stylesheet" href="sunburst.css"><link rel="stylesheet" href="mobile.css">
 </head>
 <body>
 <div id="app">
@@ -34,12 +34,20 @@
     </section>
     <section>
       <h3>display</h3>
-      <label class="select-label">view<select id="viewMode"><option value="3d">3D constellation</option><option value="2d">2D map</option></select></label>
+      <label class="select-label">view<select id="viewMode"><option value="2d">2D</option><option value="3d" selected>3D</option><option value="sunburst">Sunburst</option><option value="tda">TDA</option></select></label>
       <div id="categoryFilters"></div>
       <div id="relationFilters"></div>
       <div class="btnrow"><button id="labels" class="active">auto labels</button><button id="local">local focus</button></div>
       <div class="btnrow"><button id="home">home</button><button id="fit">fit</button><button id="reset">reset</button></div>
       <div class="range"><label><span>constellation spread</span><output id="spreadValue">100%</output></label><input id="spread" type="range" min="60" max="180" value="100"></div>
+    </section>
+    <section id="sunburstControls" hidden>
+      <h3>sunburst hierarchy</h3>
+      <label class="select-label">root<select id="sunburstRoot"></select></label>
+      <label class="select-label">sector size<select id="sunburstSize"><option value="subtree">subtree size</option><option value="leaves">leaf count</option><option value="equal">equal</option></select></label>
+      <label class="select-label">max depth<select id="sunburstDepth"><option value="3">3 levels</option><option value="5" selected>5 levels</option><option value="8">8 levels</option><option value="Infinity">all levels</option></select></label>
+      <div class="btnrow"><button id="sunburstLabels" class="active">labels on</button></div>
+      <div class="note">Hierarchy controls affect only the display projection. Canonical relations remain unchanged.</div>
     </section>
     <section>
       <h3>analytics</h3>
@@ -79,11 +87,12 @@
   </aside>
   <main>
     <canvas id="space" aria-label="Interactive knowledge graph"></canvas><canvas id="orientation"></canvas>
+    <div id="sunburstView" hidden></div>
     <div id="explorerTooltip" aria-hidden="true"></div><div id="zoomBadge" class="zoom-badge">label detail · overview</div>
     <div id="hud">left-drag · orbit / node<br>right-drag · pan · wheel · zoom<br>click / shift-click · select<br>double-click · radial · modifier + double-click · source link</div>
   </main>
-  <aside id="right"><section><h3>selection</h3><div id="inspect"></div></section><section><h3>legend</h3><div id="legend"></div></section><section><h3>import provenance</h3><div id="provenance" class="stat"></div></section></aside>
+  <aside id="right"><section><h3>selection</h3><div id="inspect"></div></section><section><h3>legend</h3><div id="legend"></div></section><section><h3>diagnostics</h3><div id="sunburstDiagnostics"><div class="quiet">No Sunburst diagnostics.</div></div></section><section><h3>import provenance</h3><div id="provenance" class="stat"></div></section></aside>
 </div>
-<script src="vendor/jszip.min.js"></script><script src="src/sample-data.js"></script><script src="src/csv-core.js"></script><script src="src/import-adapters.js"></script><script src="src/notion-import.js"></script><script src="src/graph-core.js"></script><script src="src/topology.js"></script><script src="src/app.js"></script>
+<script src="vendor/jszip.min.js"></script><script src="src/sample-data.js"></script><script src="src/csv-core.js"></script><script src="src/import-adapters.js"></script><script src="src/notion-import.js"></script><script src="src/graph-core.js"></script><script src="src/topology.js"></script><script src="src/sunburst-view.js"></script><script src="src/app.js"></script>
 </body>
 </html>

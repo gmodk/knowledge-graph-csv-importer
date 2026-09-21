@@ -1,0 +1,27 @@
+.constellation-sunburst-host{position:absolute;inset:0;width:100%;height:100%;min-height:320px;padding:12px}
+.constellation-sunburst-host[hidden]{display:none}
+.constellation-sunburst{display:grid;grid-template-rows:auto minmax(0,1fr);width:100%;height:100%;color:var(--text);background:rgba(5,10,16,.72);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.constellation-sunburst__toolbar{display:flex;align-items:center;gap:8px;min-height:42px;padding:7px 10px;border-bottom:1px solid var(--line)}
+.constellation-sunburst__button{appearance:none;border:1px solid var(--line2);border-radius:7px;padding:6px 10px;color:inherit;background:#0b1621;cursor:pointer}
+.constellation-sunburst__button:hover{background:#10202f}
+.constellation-sunburst__button:disabled{opacity:.35;cursor:default}
+.constellation-sunburst__breadcrumb{min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-size:11px;color:var(--muted)}
+.constellation-sunburst__stage{position:relative;min-height:0;overflow:hidden}
+.constellation-sunburst__svg{display:block;width:100%;height:100%;min-height:320px;user-select:none}
+.constellation-sunburst__sector{cursor:pointer;outline:none}
+.constellation-sunburst__arc{stroke:#071019;stroke-width:1;opacity:.92;transition:opacity 120ms ease,filter 120ms ease,stroke-width 120ms ease}
+.constellation-sunburst__sector:hover .constellation-sunburst__arc,.constellation-sunburst__sector:focus .constellation-sunburst__arc{opacity:1;filter:brightness(1.16)}
+.constellation-sunburst__sector.is-selected .constellation-sunburst__arc{stroke:#fff;stroke-width:3;filter:brightness(1.14)}
+.constellation-sunburst__label{fill:rgba(255,255,255,.92);font-size:10.5px;pointer-events:none;paint-order:stroke;stroke:rgba(0,0,0,.48);stroke-width:2.3px}
+.constellation-sunburst__center-label{fill:rgba(255,255,255,.98);font-size:12px;font-weight:700}
+.constellation-sunburst__center-meta{fill:rgba(255,255,255,.65);font-size:9px}
+.constellation-sunburst__center-circle.is-selected{stroke:#fff;stroke-width:3}
+.constellation-sunburst__tooltip{position:absolute;z-index:5;width:min(230px,calc(100% - 16px));padding:8px 10px;border:1px solid var(--line2);border-radius:8px;background:rgba(7,10,16,.94);box-shadow:0 8px 28px rgba(0,0,0,.3);pointer-events:none;font-size:12px}
+.constellation-sunburst__tooltip strong,.constellation-sunburst__tooltip span{display:block}
+.constellation-sunburst__tooltip span{margin-top:3px;opacity:.68;font-size:10.5px}
+.constellation-sunburst__tooltip[hidden]{display:none}
+#sunburstControls[hidden]{display:none}
+#sunburstDiagnostics .diagnostic-row{padding:5px 0;border-top:1px solid rgba(255,255,255,.055);font-size:8.5px;line-height:1.4;color:var(--warn);word-break:break-word}
+#sunburstDiagnostics .diagnostic-row.info{color:var(--muted)}
+main.sunburst-active #space,main.sunburst-active #orientation,main.sunburst-active #explorerTooltip,main.sunburst-active #zoomBadge,main.sunburst-active #hud{display:none}
+@media(max-width:760px){.constellation-sunburst-host{padding:6px}.constellation-sunburst__toolbar{align-items:flex-start;flex-wrap:wrap}.constellation-sunburst__breadcrumb{flex-basis:100%}}

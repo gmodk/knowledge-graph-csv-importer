@@ -9,7 +9,9 @@ Open `universal-csv-graph-importer.html` directly in a modern browser. No server
 1. Drop the node and edge CSV files into the import zone together.
 2. Review each file's role and inferred columns in the preview modal.
 3. Choose **apply snapshot**. Canceling or closing the modal preserves the active graph.
-4. Explore with generated layers and relation filters, force/semantic/hierarchical/cluster/radial layouts, recursive source/outcome context, analytics, gravity, adaptive labels, and persistent topology.
+4. Explore the same canonical graph in 2D, 3D, Sunburst, or TDA, with generated layers and relation filters, force/semantic/hierarchical/cluster/radial layouts, recursive source/outcome context, analytics, gravity, adaptive labels, and persistent topology.
+
+Sunburst is a display-only hierarchy projection. It recognizes `contains`, `parent-child`, `database-membership`, `hierarchy`, and `subpage` relations in that priority order, resolves display parents deterministically, rejects cycles, and uses a synthetic **Workspace** root when needed. Its root, sector-size, depth, and label controls do not modify or duplicate the stored graph.
 
 For a Notion export, choose **Import Notion ZIP**, review the generated pages, databases, relationships, and diagnostics, then choose **Apply import**. See [docs/notion-import.md](docs/notion-import.md).
 
