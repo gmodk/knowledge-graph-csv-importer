@@ -1,0 +1,557 @@
+id,label,category,era,status,weight,url
+logic_propositional,Propositional logic,Logic,Ancient-Modern,axiom,1,
+logic_boolean_algebra,Boolean algebra,Logic,1854 (Boole),definition,2,https://en.wikipedia.org/wiki/Boolean_algebra
+logic_truth_tables,Truth tables & tautology,Logic,1921 (Post/Wittgenstein),definition,1,https://en.wikipedia.org/wiki/Truth_table
+logic_predicate,First-order predicate logic,Logic,1879-1928,definition,2,https://en.wikipedia.org/wiki/First-order_logic
+logic_second_order,Second-order logic,Logic,1900s,definition,4,https://en.wikipedia.org/wiki/Second-order_logic
+logic_quantifiers,"Quantifiers (∀, ∃)",Logic,1879 (Frege),definition,2,https://en.wikipedia.org/wiki/Quantifier_(logic)
+logic_syntax_semantics,Syntax vs. semantics; formal languages,Logic,1930s (Tarski),definition,3,https://en.wikipedia.org/wiki/Formal_language
+logic_soundness_completeness,Soundness & completeness theorems,Logic,1930 (Gödel),theorem,5,https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem
+logic_compactness_thm,Compactness theorem,Logic,1930,theorem,5,https://en.wikipedia.org/wiki/Compactness_theorem
+logic_lowenheim_skolem,Löwenheim–Skolem theorem,Logic,1915-1920,theorem,6,https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem
+logic_skolem_paradox,Skolem's paradox,Logic,1922,theorem,6,https://en.wikipedia.org/wiki/Skolem%27s_paradox
+model_theory_basics,Model theory: structures & satisfaction,Logic,1950s (Tarski),definition,5,https://en.wikipedia.org/wiki/Model_theory
+model_theory_elementary_equiv,Elementary equivalence & ultraproducts,Logic,1950s,definition,6,https://en.wikipedia.org/wiki/Elementary_equivalence
+model_theory_stability,Stability theory (Shelah),Logic,1969-1990,theorem,8,https://en.wikipedia.org/wiki/Stable_theory
+model_theory_ominimality,O-minimality,Logic,1980s,definition,7,https://en.wikipedia.org/wiki/O-minimal_theory
+nonstandard_analysis,Nonstandard analysis (hyperreals),Logic,1960 (Robinson),theorem,7,https://en.wikipedia.org/wiki/Nonstandard_analysis
+proof_theory_basics,Proof theory: formal derivations,Logic,1920s (Hilbert),definition,4,https://en.wikipedia.org/wiki/Proof_theory
+hilberts_program,Hilbert's program,Logic,1920s,conjecture,6,https://en.wikipedia.org/wiki/Hilbert%27s_program
+gentzen_natural_deduction,Gentzen: natural deduction & sequent calculus,Logic,1934,definition,5,https://en.wikipedia.org/wiki/Natural_deduction
+gentzen_consistency_pa,Gentzen's consistency proof of PA,Logic,1936,theorem,7,https://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof
+ordinal_analysis,Ordinal analysis of theories,Logic,1936-present,theorem,8,https://en.wikipedia.org/wiki/Ordinal_analysis
+cut_elimination,Cut-elimination theorem,Logic,1934,theorem,6,https://en.wikipedia.org/wiki/Cut-elimination_theorem
+intuitionistic_logic,Intuitionistic logic,Logic,1907-1930 (Brouwer/Heyting),axiom,4,https://en.wikipedia.org/wiki/Intuitionistic_logic
+curry_howard,Curry–Howard correspondence,Logic,1934-1969,theorem,7,https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
+lambda_calculus,Lambda calculus,Logic,1932 (Church),definition,5,https://en.wikipedia.org/wiki/Lambda_calculus
+type_theory,Type theory,Logic,1908 (Russell),axiom,6,https://en.wikipedia.org/wiki/Type_theory
+martin_lof_type_theory,Martin-Löf dependent type theory,Logic,1972,theorem,8,https://en.wikipedia.org/wiki/Intuitionistic_type_theory
+homotopy_type_theory,Homotopy type theory / univalent foundations,Logic,2006-2013 (Voevodsky),theorem,9,https://en.wikipedia.org/wiki/Homotopy_type_theory
+recursion_theory,Computability / recursion theory,Logic,1930s,definition,5,https://en.wikipedia.org/wiki/Computability_theory
+turing_machine,Turing machines,Logic,1936,definition,5,https://en.wikipedia.org/wiki/Turing_machine
+church_turing,Church–Turing thesis,Logic,1936,conjecture,6,https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis
+halting_problem,Halting problem (undecidability),Logic,1936,theorem,5,https://en.wikipedia.org/wiki/Halting_problem
+complexity_classes,"Complexity classes (P, NP, PSPACE)",Logic,1965-1971,definition,6,https://en.wikipedia.org/wiki/Computational_complexity_theory
+cook_levin,Cook–Levin theorem (NP-completeness),Logic,1971,theorem,8,https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem
+p_vs_np,P vs NP,Logic,1971-present,open_problem,10,https://en.wikipedia.org/wiki/P_versus_NP_problem
+descriptive_set_theory,Descriptive set theory,Set Theory,1910s-1980s,theorem,7,https://en.wikipedia.org/wiki/Descriptive_set_theory
+determinacy_axioms,Axiom of Determinacy,Set Theory,1962,conjecture,8,https://en.wikipedia.org/wiki/Axiom_of_determinacy
+zfc_axioms,ZFC axioms,Set Theory,1908-1922,axiom,2,https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory
+zermelo_axioms,Zermelo's original axioms (1908),Set Theory,1908,axiom,2,https://en.wikipedia.org/wiki/Zermelo_set_theory
+axiom_of_replacement,Axiom of Replacement (Fraenkel/Skolem),Set Theory,1922,axiom,3,https://en.wikipedia.org/wiki/Axiom_schema_of_replacement
+axiom_of_foundation,Axiom of Foundation/Regularity,Set Theory,1925 (von Neumann),axiom,3,https://en.wikipedia.org/wiki/Axiom_of_regularity
+axiom_of_choice,Axiom of Choice,Set Theory,1904,axiom,3,https://en.wikipedia.org/wiki/Axiom_of_choice
+zorn_lemma,Zorn's Lemma,Set Theory,1935,theorem,4,https://en.wikipedia.org/wiki/Zorn%27s_lemma
+well_ordering_theorem,Well-ordering theorem,Set Theory,1904 (Zermelo),theorem,4,https://en.wikipedia.org/wiki/Well-ordering_theorem
+banach_tarski,Banach–Tarski paradox,Set Theory,1924,theorem,7,https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox
+russells_paradox,Russell's paradox,Set Theory,1901,theorem,3,https://en.wikipedia.org/wiki/Russell%27s_paradox
+naive_set_theory,Naive set theory (Cantor),Set Theory,1874-1897,definition,2,https://en.wikipedia.org/wiki/Naive_set_theory
+ordinal_numbers,Ordinal numbers,Set Theory,1883 (Cantor),definition,4,https://en.wikipedia.org/wiki/Ordinal_number
+transfinite_induction,Transfinite induction & recursion,Set Theory,1897,theorem,5,https://en.wikipedia.org/wiki/Transfinite_induction
+cardinality,Cardinality & cardinal numbers,Set Theory,1874-1878,definition,3,https://en.wikipedia.org/wiki/Cardinal_number
+cantor_diagonal,Cantor's diagonal argument,Set Theory,1891,theorem,4,https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument
+cantor_schroder_bernstein,Cantor–Schröder–Bernstein theorem,Set Theory,1898,theorem,4,https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem
+continuum_hypothesis,Continuum Hypothesis,Set Theory,1878,conjecture,8,https://en.wikipedia.org/wiki/Continuum_hypothesis
+generalized_ch,Generalized Continuum Hypothesis,Set Theory,1908,conjecture,8,https://en.wikipedia.org/wiki/Continuum_hypothesis#Generalized_continuum_hypothesis
+godel_incompleteness,Gödel's incompleteness theorems,Logic,1931,theorem,8,https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+godel_constructible_universe,Gödel's constructible universe L,Set Theory,1938,theorem,8,https://en.wikipedia.org/wiki/Constructible_universe
+godel_ch_consistency,Gödel: CH consistent with ZFC,Set Theory,1940,theorem,7,https://en.wikipedia.org/wiki/Continuum_hypothesis
+cohen_forcing,Cohen: CH independent of ZFC (forcing),Set Theory,1963,theorem,9,https://en.wikipedia.org/wiki/Forcing_(mathematics)
+forcing_method,Forcing as a general method,Set Theory,1963-present,theorem,9,https://en.wikipedia.org/wiki/Forcing_(mathematics)
+large_cardinals,Large cardinal axioms,Set Theory,1930-present,conjecture,9,https://en.wikipedia.org/wiki/Large_cardinal
+inaccessible_cardinals,Inaccessible cardinals,Set Theory,1930,definition,8,https://en.wikipedia.org/wiki/Inaccessible_cardinal
+measurable_cardinals,Measurable cardinals,Set Theory,1930-1960,definition,9,https://en.wikipedia.org/wiki/Measurable_cardinal
+woodin_cardinals,Woodin cardinals,Set Theory,1984,definition,9,https://en.wikipedia.org/wiki/Woodin_cardinal
+inner_model_theory,Inner model theory,Set Theory,1960s-present,theorem,9,https://en.wikipedia.org/wiki/Inner_model_theory
+peano_axioms,Peano axioms,Number Theory,1889,axiom,1,https://en.wikipedia.org/wiki/Peano_axioms
+naturals,Natural numbers N,Number Theory,Ancient,object,1,
+integers,Integers Z,Number Theory,Ancient,object,1,
+rationals,Rational numbers Q,Number Theory,Ancient,object,1,
+reals_construction,Construction of R (Dedekind cuts / Cauchy),Analysis,1858-1872,definition,3,https://en.wikipedia.org/wiki/Construction_of_the_real_numbers
+complex_numbers,Complex numbers C,Analysis,1545-1831,object,2,https://en.wikipedia.org/wiki/Complex_number
+liar_paradox,Liar paradox,Logic,Ancient,object,3,https://en.wikipedia.org/wiki/Liar_paradox
+tarski_undefinability,Tarski's undefinability theorem,Logic,1936,theorem,7,https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem
+zeno_paradoxes,Zeno's paradoxes of motion,Analysis,c.450 BCE,object,2,https://en.wikipedia.org/wiki/Zeno%27s_paradoxes
+burali_forti_paradox,Burali-Forti paradox,Set Theory,1897,theorem,5,https://en.wikipedia.org/wiki/Burali-Forti_paradox
+divisibility,Divisibility & division algorithm,Number Theory,Ancient,definition,1,
+euclidean_algorithm,Euclidean algorithm (gcd),Number Theory,c.300 BCE,theorem,1,https://en.wikipedia.org/wiki/Euclidean_algorithm
+bezout_identity,Bézout's identity,Number Theory,1624/1779,theorem,2,https://en.wikipedia.org/wiki/B%C3%A9zout%27s_identity
+continued_fractions,Continued fractions,Number Theory,Ancient-1613,definition,3,https://en.wikipedia.org/wiki/Continued_fraction
+fundamental_thm_arithmetic,Fundamental Theorem of Arithmetic,Number Theory,c.300 BCE,theorem,2,https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic
+prime_numbers,Prime numbers,Number Theory,Ancient,object,1,https://en.wikipedia.org/wiki/Prime_number
+sieve_of_eratosthenes,Sieve of Eratosthenes,Number Theory,c.240 BCE,theorem,1,https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+euclid_infinitude_primes,Euclid: infinitude of primes,Number Theory,c.300 BCE,theorem,2,https://en.wikipedia.org/wiki/Euclid%27s_theorem
+mersenne_primes,Mersenne primes,Number Theory,1536-1644,object,3,https://en.wikipedia.org/wiki/Mersenne_prime
+lucas_lehmer_test,Lucas–Lehmer primality test,Number Theory,1856-1930,theorem,4,https://en.wikipedia.org/wiki/Lucas%E2%80%93Lehmer_primality_test
+perfect_numbers,Perfect numbers,Number Theory,Ancient,object,2,https://en.wikipedia.org/wiki/Perfect_number
+euclid_perfect_numbers,Euclid–Euler: even perfect numbers,Number Theory,c.300 BCE / 1747,theorem,4,https://en.wikipedia.org/wiki/Euclid%E2%80%93Euler_theorem
+amicable_numbers,Amicable & sociable numbers,Number Theory,Ancient-1636,object,2,https://en.wikipedia.org/wiki/Amicable_numbers
+modular_arithmetic,Modular arithmetic,Number Theory,"1801 (Gauss, Disquisitiones)",definition,2,https://en.wikipedia.org/wiki/Modular_arithmetic
+disquisitiones_arithmeticae,Gauss's Disquisitiones Arithmeticae,Number Theory,1801,object,5,https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae
+chinese_remainder_thm,Chinese Remainder Theorem,Number Theory,3rd-5th c. CE,theorem,3,https://en.wikipedia.org/wiki/Chinese_remainder_theorem
+fermat_little_theorem,Fermat's Little Theorem,Number Theory,1640,theorem,3,https://en.wikipedia.org/wiki/Fermat%27s_little_theorem
+euler_theorem_totient,Euler's theorem (totient generalization),Number Theory,1763,theorem,3,https://en.wikipedia.org/wiki/Euler%27s_theorem
+euler_totient_fn,Euler's totient function φ(n),Number Theory,1763,definition,2,https://en.wikipedia.org/wiki/Euler%27s_totient_function
+carmichael_numbers,Carmichael numbers,Number Theory,1910,object,4,https://en.wikipedia.org/wiki/Carmichael_number
+wilsons_theorem,Wilson's Theorem,Number Theory,1770,theorem,3,https://en.wikipedia.org/wiki/Wilson%27s_theorem
+primality_testing,Primality testing algorithms,Number Theory,20th-21st c.,definition,4,https://en.wikipedia.org/wiki/Primality_test
+aks_primality,AKS primality test (P-time),Number Theory,2002,theorem,7,https://en.wikipedia.org/wiki/AKS_primality_test
+quadratic_residues,Quadratic residues,Number Theory,18th c.,definition,3,https://en.wikipedia.org/wiki/Quadratic_residue
+legendre_symbol,Legendre symbol,Number Theory,1798,definition,3,https://en.wikipedia.org/wiki/Legendre_symbol
+jacobi_symbol,Jacobi symbol,Number Theory,1837,definition,4,https://en.wikipedia.org/wiki/Jacobi_symbol
+quadratic_reciprocity,Law of Quadratic Reciprocity,Number Theory,1796 (Gauss),theorem,5,https://en.wikipedia.org/wiki/Quadratic_reciprocity
+gauss_sums,Gauss sums,Number Theory,1801,definition,5,https://en.wikipedia.org/wiki/Gauss_sum
+fermat_two_squares,Fermat's theorem on sums of two squares,Number Theory,1640,theorem,4,https://en.wikipedia.org/wiki/Fermat%27s_theorem_on_sums_of_two_squares
+sum_of_squares_general,Sum of squares problem (general k),Number Theory,17th-18th c.,theorem,4,https://en.wikipedia.org/wiki/Sum_of_squares_function
+lagrange_four_square,Lagrange's Four-Square Theorem,Number Theory,1770,theorem,4,https://en.wikipedia.org/wiki/Lagrange%27s_four-square_theorem
+waring_problem,Waring's problem,Number Theory,1770/1909,conjecture,6,https://en.wikipedia.org/wiki/Waring%27s_problem
+hilbert_waring,Hilbert's solution of Waring's problem,Number Theory,1909,theorem,6,https://en.wikipedia.org/wiki/Waring%27s_problem#Hilbert%E2%80%93Waring_theorem
+pell_equation,Pell's equation,Number Theory,Ancient/1657,theorem,4,https://en.wikipedia.org/wiki/Pell%27s_equation
+diophantine_equations,Diophantine equations,Number Theory,3rd c. CE,definition,3,https://en.wikipedia.org/wiki/Diophantine_equation
+hilberts_10th_problem,Hilbert's Tenth Problem,Number Theory,1900/1970,theorem,8,https://en.wikipedia.org/wiki/Hilbert%27s_tenth_problem
+matiyasevich_thm,Matiyasevich's theorem (undecidability),Number Theory,1970,theorem,8,https://en.wikipedia.org/wiki/Matiyasevich%27s_theorem
+fermat_last_theorem,Fermat's Last Theorem,Number Theory,1637 / 1995,theorem,9,https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
+fermat_last_n4,FLT case n=4 (Fermat's proof),Number Theory,1670,theorem,4,https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem#n_=_4
+kummer_ideal_numbers,Kummer's ideal numbers & regular primes,Number Theory,1847,theorem,7,https://en.wikipedia.org/wiki/Ernst_Kummer#Fermat's_Last_Theorem
+taniyama_shimura,Modularity theorem (Taniyama–Shimura–Weil),Number Theory,1955 / 1999,theorem,9,https://en.wikipedia.org/wiki/Modularity_theorem
+wiles_ribet_epsilon,Ribet's theorem (epsilon conjecture),Number Theory,1986,theorem,8,https://en.wikipedia.org/wiki/Ribet%27s_theorem
+elliptic_curves,Elliptic curves,Number Theory,19th c.,object,5,https://en.wikipedia.org/wiki/Elliptic_curve
+mordell_weil,Mordell–Weil theorem,Number Theory,1922,theorem,6,https://en.wikipedia.org/wiki/Mordell%E2%80%93Weil_theorem
+elliptic_curve_rank,Rank of an elliptic curve,Number Theory,1920s,definition,6,https://en.wikipedia.org/wiki/Elliptic_curve#Mordell%E2%80%93Weil_theorem
+bsd_conjecture,Birch and Swinnerton-Dyer Conjecture,Number Theory,1965,conjecture,10,https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture
+distribution_of_primes,Distribution of primes / π(x),Number Theory,18th-19th c.,definition,3,https://en.wikipedia.org/wiki/Prime-counting_function
+prime_number_theorem,Prime Number Theorem,Number Theory,1896,theorem,6,https://en.wikipedia.org/wiki/Prime_number_theorem
+riemann_zeta_function,Riemann zeta function ζ(s),Analysis,1859,object,6,https://en.wikipedia.org/wiki/Riemann_zeta_function
+euler_product_zeta,Euler product formula for ζ(s),Number Theory,1737,theorem,5,https://en.wikipedia.org/wiki/Euler_product
+euler_basel_problem,Euler's solution of the Basel problem ζ(2)=π²/6,Number Theory,1734,theorem,4,https://en.wikipedia.org/wiki/Basel_problem
+zeta_special_values,ζ at even/odd integers; Apéry's theorem,Number Theory,1734/1979,theorem,6,https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_theorem
+riemann_1859_paper,Riemann's 1859 memoir,Number Theory,1859,object,8,https://en.wikipedia.org/wiki/On_the_Number_of_Primes_Less_Than_a_Given_Magnitude
+riemann_functional_eq,Riemann's functional equation for ζ(s),Analysis,1859,theorem,7,https://en.wikipedia.org/wiki/Riemann_zeta_function#Functional_equation
+riemann_xi_function,Riemann's ξ(s) function,Analysis,1859,definition,7,https://en.wikipedia.org/wiki/Riemann_xi_function
+riemann_hypothesis,Riemann Hypothesis,Number Theory,1859,conjecture,10,https://en.wikipedia.org/wiki/Riemann_hypothesis
+critical_line_theorem,Hardy: infinitely many zeros on critical line,Number Theory,1914,theorem,7,https://en.wikipedia.org/wiki/Riemann_hypothesis#Hardy%E2%80%93Littlewood's_1914_theorem
+zero_free_region,Zero-free region of ζ(s),Number Theory,1896-present,theorem,7,https://en.wikipedia.org/wiki/Zero-free_region
+montgomery_pair_correlation,Montgomery's pair correlation conjecture,Number Theory,1973,conjecture,8,https://en.wikipedia.org/wiki/Hilbert%E2%80%93P%C3%B3lya_conjecture#Pair_correlation
+hilbert_polya_conjecture,Hilbert–Pólya conjecture,Number Theory,c.1912,conjecture,9,https://en.wikipedia.org/wiki/Hilbert%E2%80%93P%C3%B3lya_conjecture
+gauss_prime_conjecture,Gauss's conjecture on π(x) ~ Li(x),Number Theory,1792,conjecture,6,https://en.wikipedia.org/wiki/Prime-counting_function#Estimates
+legendre_prime_conjecture,Legendre's prime counting estimate,Number Theory,1798,conjecture,4,https://en.wikipedia.org/wiki/Prime-counting_function
+chebyshev_bounds,Chebyshev's bounds on π(x),Number Theory,1852,theorem,5,https://en.wikipedia.org/wiki/Chebyshev_function
+bertrand_postulate,Bertrand's postulate,Number Theory,1845/1852,theorem,4,https://en.wikipedia.org/wiki/Bertrand%27s_postulate
+de_la_vallee_poussin,Hadamard & de la Vallée Poussin proof of PNT,Number Theory,1896,theorem,7,https://en.wikipedia.org/wiki/Prime_number_theorem#History
+erdos_selberg_elementary_pnt,Erdős–Selberg elementary proof of PNT,Number Theory,1949,theorem,8,https://en.wikipedia.org/wiki/Prime_number_theorem#Elementary_proofs
+explicit_formula_primes,Explicit formula relating primes and ζ zeros,Number Theory,1859-1895,theorem,8,https://en.wikipedia.org/wiki/Explicit_formulae_for_L-functions
+generalized_riemann_hyp,Generalized Riemann Hypothesis (GRH),Number Theory,20th c.,conjecture,10,https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis
+dirichlet_l_functions,Dirichlet L-functions,Number Theory,1837,object,6,https://en.wikipedia.org/wiki/Dirichlet_L-function
+dirichlet_thm_primes_ap,Dirichlet's theorem on primes in arithmetic progressions,Number Theory,1837,theorem,6,https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions
+dirichlet_characters,Dirichlet characters,Number Theory,1837,definition,5,https://en.wikipedia.org/wiki/Dirichlet_character
+goldbach_conjecture,Goldbach's Conjecture,Number Theory,1742,conjecture,8,https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
+weak_goldbach,Weak (ternary) Goldbach Conjecture,Number Theory,1742/2013,theorem,8,https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture
+vinogradov_theorem,Vinogradov's theorem,Number Theory,1937,theorem,7,https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture#Vinogradov's_theorem
+helfgott_proof,Helfgott's proof of weak Goldbach,Number Theory,2013,theorem,8,https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture
+twin_prime_conjecture,Twin Prime Conjecture,Number Theory,Ancient/1849,conjecture,8,https://en.wikipedia.org/wiki/Twin_prime
+hardy_littlewood_conjectures,Hardy–Littlewood prime k-tuple conjectures,Number Theory,1923,conjecture,8,https://en.wikipedia.org/wiki/Hardy%E2%80%93Littlewood_conjecture
+zhang_bounded_gaps,Zhang: bounded prime gaps,Number Theory,2013,theorem,8,https://en.wikipedia.org/wiki/Bounded_gaps_between_primes
+maynard_tao_sieve,Maynard–Tao sieve improvements,Number Theory,2013-2014,theorem,8,https://en.wikipedia.org/wiki/Bounded_gaps_between_primes#Polymath_project
+polymath_project,Polymath8 collaborative project,Number Theory,2013-2014,theorem,7,https://en.wikipedia.org/wiki/Polymath_Project
+abc_conjecture,abc Conjecture,Number Theory,1985 (Masser–Oesterlé),conjecture,9,https://en.wikipedia.org/wiki/Abc_conjecture
+mochizuki_iut,Mochizuki's Inter-universal Teichmüller theory (disputed),Number Theory,2012-present,conjecture,10,https://en.wikipedia.org/wiki/Inter-universal_Teichm%C3%BCller_theory
+algebraic_number_theory,Algebraic number fields,Number Theory,19th c.,object,5,https://en.wikipedia.org/wiki/Algebraic_number_field
+algebraic_integers,Algebraic integers & rings of integers,Number Theory,1871 (Dedekind),definition,5,https://en.wikipedia.org/wiki/Algebraic_integer
+dedekind_domains,Dedekind domains,Number Theory,1871,definition,6,https://en.wikipedia.org/wiki/Dedekind_domain
+unique_factorization_ideals,Unique factorization of ideals,Number Theory,1871,theorem,6,https://en.wikipedia.org/wiki/Dedekind_domain#Ideal_factorization
+ideal_class_group,Ideal class group,Number Theory,1846 (Kummer)/1871,definition,6,https://en.wikipedia.org/wiki/Ideal_class_group
+class_number_problem,Class number problem (Gauss),Number Theory,1801/1966-1985,theorem,8,https://en.wikipedia.org/wiki/Class_number_problem
+class_field_theory,Class field theory,Number Theory,1897-1930,theorem,8,https://en.wikipedia.org/wiki/Class_field_theory
+kronecker_jugendtraum,Kronecker's Jugendtraum,Number Theory,1880s,conjecture,8,https://en.wikipedia.org/wiki/Kronecker%27s_Jugendtraum
+iwasawa_theory,Iwasawa theory,Number Theory,1959,theorem,9,https://en.wikipedia.org/wiki/Iwasawa_theory
+padic_numbers,p-adic numbers,Number Theory,1897 (Hensel),object,6,https://en.wikipedia.org/wiki/P-adic_number
+padic_analysis,p-adic analysis,Number Theory,20th c.,definition,7,https://en.wikipedia.org/wiki/P-adic_analysis
+local_global_principle,Local-global (Hasse) principle,Number Theory,1920s,theorem,7,https://en.wikipedia.org/wiki/Hasse_principle
+hasse_minkowski,Hasse–Minkowski theorem,Number Theory,1920s,theorem,7,https://en.wikipedia.org/wiki/Hasse%E2%80%93Minkowski_theorem
+langlands_program,Langlands Program,Number Theory,1967-present,conjecture,10,https://en.wikipedia.org/wiki/Langlands_program
+automorphic_forms,Automorphic forms,Number Theory,20th c.,object,8,https://en.wikipedia.org/wiki/Automorphic_form
+modular_forms,Modular forms,Number Theory,19th-20th c.,object,7,https://en.wikipedia.org/wiki/Modular_form
+galois_representations,Galois representations,Number Theory,20th c.,definition,8,https://en.wikipedia.org/wiki/Galois_module
+transcendental_numbers,Transcendental numbers,Number Theory,1844 (Liouville),definition,4,https://en.wikipedia.org/wiki/Transcendental_number
+liouville_numbers,Liouville numbers & first transcendence proof,Number Theory,1844,theorem,5,https://en.wikipedia.org/wiki/Liouville_number
+hermite_e_transcendental,Hermite: e is transcendental,Number Theory,1873,theorem,5,https://en.wikipedia.org/wiki/Charles_Hermite#Transcendence_of_e
+lindemann_pi_transcendental,Lindemann: π is transcendental,Number Theory,1882,theorem,6,https://en.wikipedia.org/wiki/Lindemann%E2%80%93Weierstrass_theorem
+squaring_the_circle,Impossibility of squaring the circle,Geometry,1882,theorem,5,https://en.wikipedia.org/wiki/Squaring_the_circle
+hilbert_7th_problem,Hilbert's Seventh Problem,Number Theory,1900,conjecture,6,https://en.wikipedia.org/wiki/Hilbert%27s_seventh_problem
+gelfond_schneider,Gelfond–Schneider theorem,Number Theory,1934,theorem,7,https://en.wikipedia.org/wiki/Gelfond%E2%80%93Schneider_theorem
+continued_fraction_diophantine_approx,Diophantine approximation,Number Theory,19th-20th c.,definition,5,https://en.wikipedia.org/wiki/Diophantine_approximation
+roth_theorem,Roth's theorem,Number Theory,1955,theorem,8,https://en.wikipedia.org/wiki/Roth%27s_theorem
+additive_number_theory,Additive number theory,Number Theory,18th c.-present,definition,4,https://en.wikipedia.org/wiki/Additive_number_theory
+partition_function,Integer partitions p(n),Number Theory,18th c. (Euler),definition,3,https://en.wikipedia.org/wiki/Partition_(number_theory)
+hardy_ramanujan_asymptotic,Hardy–Ramanujan partition asymptotic,Number Theory,1918,theorem,7,https://en.wikipedia.org/wiki/Hardy%E2%80%93Ramanujan_asymptotic_formula
+ramanujan_congruences,Ramanujan's congruences for p(n),Number Theory,1919,theorem,7,https://en.wikipedia.org/wiki/Ramanujan%27s_congruences
+continuant_farey,Farey sequences,Number Theory,1816,definition,3,https://en.wikipedia.org/wiki/Farey_sequence
+binary_operation,Binary operations & closure,Algebra,Ancient,definition,1,
+semigroups_monoids,Semigroups & monoids,Algebra,19th-20th c.,definition,2,https://en.wikipedia.org/wiki/Monoid
+group_axioms,Group axioms,Algebra,1832-1870 (Galois/Cayley),axiom,2,https://en.wikipedia.org/wiki/Group_(mathematics)
+abelian_groups,Abelian groups,Algebra,19th c.,definition,2,https://en.wikipedia.org/wiki/Abelian_group
+fund_thm_finite_abelian,Fundamental theorem of finite abelian groups,Algebra,1879,theorem,5,https://en.wikipedia.org/wiki/Abelian_group#Classification
+subgroup,Subgroups,Algebra,19th c.,definition,2,https://en.wikipedia.org/wiki/Subgroup
+lagrange_group_theorem,Lagrange's theorem (group order),Algebra,1770,theorem,3,https://en.wikipedia.org/wiki/Lagrange%27s_theorem_(group_theory)
+cyclic_groups,Cyclic groups,Algebra,19th c.,object,2,https://en.wikipedia.org/wiki/Cyclic_group
+dihedral_groups,Dihedral groups,Algebra,19th c.,object,2,https://en.wikipedia.org/wiki/Dihedral_group
+homomorphism,Group homomorphisms,Algebra,19th c.,definition,3,https://en.wikipedia.org/wiki/Group_homomorphism
+normal_subgroup_quotient,Normal subgroups & quotient groups,Algebra,1870s,definition,3,https://en.wikipedia.org/wiki/Normal_subgroup
+isomorphism_theorems,Isomorphism theorems,Algebra,1927 (Noether),theorem,4,https://en.wikipedia.org/wiki/Isomorphism_theorems
+noether_foundational_work,Noether's foundational abstract algebra (1921-1927),Algebra,1921-1927,object,7,https://en.wikipedia.org/wiki/Emmy_Noether
+cayley_theorem,Cayley's Theorem,Algebra,1854,theorem,3,https://en.wikipedia.org/wiki/Cayley%27s_theorem
+symmetric_group,Symmetric group S_n,Algebra,19th c.,object,3,https://en.wikipedia.org/wiki/Symmetric_group
+alternating_group,Alternating group A_n,Algebra,19th c.,object,4,https://en.wikipedia.org/wiki/Alternating_group
+group_action,Group actions,Algebra,19th-20th c.,definition,3,https://en.wikipedia.org/wiki/Group_action
+orbit_stabilizer,Orbit–stabilizer theorem,Algebra,19th-20th c.,theorem,4,https://en.wikipedia.org/wiki/Group_action#Orbits_and_stabilizers
+burnside_lemma,Burnside's lemma,Algebra,1887 (Frobenius),theorem,4,https://en.wikipedia.org/wiki/Burnside%27s_lemma
+sylow_theorems,Sylow theorems,Algebra,1872,theorem,5,https://en.wikipedia.org/wiki/Sylow_theorems
+direct_semidirect_products,Direct & semidirect products,Algebra,19th-20th c.,definition,3,https://en.wikipedia.org/wiki/Semidirect_product
+free_groups,Free groups & presentations,Algebra,1882 (Dyck),definition,4,https://en.wikipedia.org/wiki/Free_group
+word_problem_groups,Word problem for groups,Algebra,1911/1955,theorem,8,https://en.wikipedia.org/wiki/Word_problem_for_groups
+simple_groups,Simple groups,Algebra,19th c.,definition,5,https://en.wikipedia.org/wiki/Simple_group
+feit_thompson,Feit–Thompson theorem (odd order),Algebra,1963,theorem,8,https://en.wikipedia.org/wiki/Feit%E2%80%93Thompson_theorem
+classification_finite_simple,Classification of Finite Simple Groups,Algebra,1955-2004,theorem,10,https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups
+sporadic_groups,Sporadic simple groups,Algebra,1861-1980,object,8,https://en.wikipedia.org/wiki/Sporadic_group
+monster_group,Monster group & Monstrous Moonshine,Algebra,1973-1992,conjecture,9,https://en.wikipedia.org/wiki/Monstrous_moonshine
+galois_theory,Galois theory,Algebra,1832,theorem,7,https://en.wikipedia.org/wiki/Galois_theory
+galois_correspondence,Galois correspondence (fundamental theorem),Algebra,1832/1894,theorem,7,https://en.wikipedia.org/wiki/Fundamental_theorem_of_Galois_theory
+solvable_groups,Solvable groups,Algebra,1832,definition,4,https://en.wikipedia.org/wiki/Solvable_group
+abel_ruffini,Abel–Ruffini theorem (unsolvability of quintic),Algebra,1799-1824,theorem,6,https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem
+radical_extensions,Solvability by radicals,Algebra,1832,theorem,6,https://en.wikipedia.org/wiki/Solvable_group#Solvability_of_polynomial_equations
+inverse_galois_problem,Inverse Galois Problem,Algebra,1892-present,open_problem,9,https://en.wikipedia.org/wiki/Inverse_Galois_problem
+rings_axioms,Ring axioms,Algebra,19th-20th c.,axiom,2,https://en.wikipedia.org/wiki/Ring_(mathematics)
+polynomial_rings,Polynomial rings,Algebra,19th c.,object,2,https://en.wikipedia.org/wiki/Polynomial_ring
+ideals,Ideals,Algebra,1871 (Dedekind),definition,3,https://en.wikipedia.org/wiki/Ideal_(ring_theory)
+quotient_rings,Quotient rings,Algebra,19th-20th c.,definition,3,https://en.wikipedia.org/wiki/Quotient_ring
+pid_ufd,PIDs and UFDs,Algebra,19th-20th c.,definition,4,https://en.wikipedia.org/wiki/Principal_ideal_domain
+euclidean_domains,Euclidean domains,Algebra,19th-20th c.,definition,3,https://en.wikipedia.org/wiki/Euclidean_domain
+noetherian_rings,Noetherian rings,Algebra,1921 (Noether),definition,5,https://en.wikipedia.org/wiki/Noetherian_ring
+hilbert_basis_theorem,Hilbert's Basis Theorem,Algebra,1890,theorem,5,https://en.wikipedia.org/wiki/Hilbert%27s_basis_theorem
+fields_axioms,Field axioms,Algebra,19th c.,axiom,2,https://en.wikipedia.org/wiki/Field_(mathematics)
+field_extensions,Field extensions,Algebra,19th c.,definition,4,https://en.wikipedia.org/wiki/Field_extension
+algebraic_closure,Algebraic closure,Algebra,19th-20th c.,definition,4,https://en.wikipedia.org/wiki/Algebraic_closure
+fund_thm_algebra,Fundamental Theorem of Algebra,Algebra,1799 (Gauss),theorem,5,https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra
+finite_fields,Finite fields (Galois fields),Algebra,1830,theorem,4,https://en.wikipedia.org/wiki/Finite_field
+splitting_fields,Splitting fields,Algebra,19th-20th c.,definition,4,https://en.wikipedia.org/wiki/Splitting_field
+separable_extensions,Separable & normal extensions,Algebra,19th-20th c.,definition,5,https://en.wikipedia.org/wiki/Separable_extension
+vector_spaces,Vector space axioms,Linear Algebra,19th-20th c.,axiom,2,https://en.wikipedia.org/wiki/Vector_space
+basis_dimension,Basis & dimension,Linear Algebra,19th c.,definition,2,https://en.wikipedia.org/wiki/Basis_(linear_algebra)
+linear_maps,Linear transformations,Linear Algebra,19th c.,definition,2,https://en.wikipedia.org/wiki/Linear_map
+matrix_algebra,Matrix algebra,Linear Algebra,1858 (Cayley),definition,2,https://en.wikipedia.org/wiki/Matrix_(mathematics)
+determinants,Determinants,Linear Algebra,17th-18th c.,definition,2,https://en.wikipedia.org/wiki/Determinant
+cayley_hamilton,Cayley–Hamilton theorem,Linear Algebra,1858,theorem,4,https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem
+eigen_theory,Eigenvalues & eigenvectors,Linear Algebra,18th-19th c.,definition,3,https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
+jordan_normal_form,Jordan normal form,Linear Algebra,1870,theorem,5,https://en.wikipedia.org/wiki/Jordan_normal_form
+spectral_theorem,Spectral theorem,Linear Algebra,1904-1929,theorem,6,https://en.wikipedia.org/wiki/Spectral_theorem
+bilinear_quadratic_forms,Bilinear & quadratic forms,Linear Algebra,19th c.,definition,4,https://en.wikipedia.org/wiki/Quadratic_form
+tensor_products,Tensor products,Linear Algebra,19th-20th c.,definition,5,https://en.wikipedia.org/wiki/Tensor_product
+multilinear_algebra,Multilinear algebra & tensors,Linear Algebra,19th-20th c.,definition,5,https://en.wikipedia.org/wiki/Multilinear_algebra
+modules_theory,Modules over a ring,Algebra,19th-20th c.,definition,4,https://en.wikipedia.org/wiki/Module_(mathematics)
+structure_thm_pid_modules,Structure theorem for f.g. modules over a PID,Algebra,20th c.,theorem,6,https://en.wikipedia.org/wiki/Structure_theorem_for_finitely_generated_modules_over_a_principal_ideal_domain
+representation_theory,Representation theory of groups,Algebra,1896 (Frobenius),theorem,7,https://en.wikipedia.org/wiki/Representation_theory
+characters_of_groups,Character theory,Algebra,1896 (Frobenius),definition,6,https://en.wikipedia.org/wiki/Character_theory
+maschke_theorem,Maschke's theorem,Algebra,1899,theorem,6,https://en.wikipedia.org/wiki/Maschke%27s_theorem
+lie_groups,Lie groups,Algebra,1870s (Sophus Lie),object,7,https://en.wikipedia.org/wiki/Lie_group
+lie_algebras,Lie algebras,Algebra,1870s,object,7,https://en.wikipedia.org/wiki/Lie_algebra
+classification_simple_lie_algebras,Classification of simple Lie algebras (Killing–Cartan),Algebra,1888-1894,theorem,9,https://en.wikipedia.org/wiki/Killing%E2%80%93Cartan_classification
+root_systems,Root systems & Dynkin diagrams,Algebra,1890s-1940s,definition,8,https://en.wikipedia.org/wiki/Root_system
+exceptional_lie_groups,"Exceptional Lie groups (G2,F4,E6,E7,E8)",Algebra,1890s-1950s,object,9,https://en.wikipedia.org/wiki/E8_(mathematics)
+universal_algebra,Universal algebra,Algebra,1930s-1950s,definition,6,https://en.wikipedia.org/wiki/Universal_algebra
+lattice_theory,Lattice theory & order theory,Order Theory,1890s-1930s,definition,4,https://en.wikipedia.org/wiki/Lattice_(order)
+boolean_lattices,Boolean lattices & Stone duality,Order Theory,1936 (Stone),theorem,6,https://en.wikipedia.org/wiki/Stone%27s_representation_theorem_for_Boolean_algebras
+category_theory,Category theory axioms,Category Theory,1945 (Eilenberg–Mac Lane),axiom,6,https://en.wikipedia.org/wiki/Category_theory
+functors_natural_transf,Functors & natural transformations,Category Theory,1945,definition,6,https://en.wikipedia.org/wiki/Functor
+yoneda_lemma,Yoneda Lemma,Category Theory,1954,theorem,8,https://en.wikipedia.org/wiki/Yoneda_lemma
+adjoint_functors,Adjoint functors,Category Theory,1958 (Kan),definition,7,https://en.wikipedia.org/wiki/Adjoint_functors
+limits_colimits_cat,Limits & colimits in categories,Category Theory,1950s-60s,definition,7,https://en.wikipedia.org/wiki/Limit_(category_theory)
+abelian_categories,Abelian categories,Category Theory,1957 (Grothendieck),definition,7,https://en.wikipedia.org/wiki/Abelian_category
+homological_algebra,Homological algebra,Category Theory,1940s-1950s,definition,7,https://en.wikipedia.org/wiki/Homological_algebra
+chain_complexes,Chain complexes & exact sequences,Category Theory,1940s,definition,6,https://en.wikipedia.org/wiki/Chain_complex
+derived_functors,"Derived functors (Ext, Tor)",Category Theory,1956 (Cartan–Eilenberg),definition,8,https://en.wikipedia.org/wiki/Derived_functor
+spectral_sequences,Spectral sequences,Category Theory,1946 (Leray),definition,9,https://en.wikipedia.org/wiki/Spectral_sequence
+topos_theory,Topos theory,Category Theory,1960s (Grothendieck/Lawvere),theorem,9,https://en.wikipedia.org/wiki/Topos
+derived_categories,Derived categories,Category Theory,1963 (Verdier),definition,9,https://en.wikipedia.org/wiki/Derived_category
+commutative_algebra,Commutative algebra,Algebra,19th-20th c.,definition,5,https://en.wikipedia.org/wiki/Commutative_algebra
+nullstellensatz,Hilbert's Nullstellensatz,Algebra,1893,theorem,6,https://en.wikipedia.org/wiki/Hilbert%27s_Nullstellensatz
+invariant_theory,Invariant theory,Algebra,19th c.,definition,6,https://en.wikipedia.org/wiki/Invariant_theory
+hilbert_14th_problem,Hilbert's Fourteenth Problem,Algebra,1900/1959,theorem,7,https://en.wikipedia.org/wiki/Hilbert%27s_fourteenth_problem
+linear_codes,Linear codes over finite fields,Coding Theory,1948-1950,definition,4,https://en.wikipedia.org/wiki/Linear_code
+hamming_distance,Hamming distance & weight,Coding Theory,1950,definition,3,https://en.wikipedia.org/wiki/Hamming_distance
+hamming_code,Hamming codes,Coding Theory,1950,theorem,4,https://en.wikipedia.org/wiki/Hamming_code
+hamming_bound,Hamming (sphere-packing) bound,Coding Theory,1950,theorem,5,https://en.wikipedia.org/wiki/Hamming_bound
+singleton_bound,Singleton bound & MDS codes,Coding Theory,1964,theorem,5,https://en.wikipedia.org/wiki/Singleton_bound
+gilbert_varshamov_bound,Gilbert–Varshamov bound,Coding Theory,1952,theorem,6,https://en.wikipedia.org/wiki/Gilbert%E2%80%93Varshamov_bound
+reed_solomon,Reed–Solomon codes,Coding Theory,1960,theorem,5,https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction
+bch_codes,BCH codes,Coding Theory,1959-1960,theorem,5,https://en.wikipedia.org/wiki/BCH_code
+cyclic_codes,Cyclic codes,Coding Theory,1957,definition,5,https://en.wikipedia.org/wiki/Cyclic_code
+golay_code,Golay codes,Coding Theory,1949,theorem,5,https://en.wikipedia.org/wiki/Binary_Golay_code
+golay_sporadic_link,Golay code & Mathieu sporadic groups,Coding Theory,1949/1861,theorem,8,https://en.wikipedia.org/wiki/Binary_Golay_code#Mathematics
+shannon_channel_coding,Shannon's channel coding theorem,Coding Theory,1948,theorem,7,https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem
+shannon_entropy,Shannon entropy & information theory,Coding Theory,1948,definition,5,https://en.wikipedia.org/wiki/Entropy_(information_theory)
+ldpc_codes,LDPC codes,Coding Theory,1963/1996,theorem,6,https://en.wikipedia.org/wiki/Low-density_parity-check_code
+turbo_codes,Turbo codes,Coding Theory,1993,theorem,6,https://en.wikipedia.org/wiki/Turbo_code
+polar_codes,Polar codes,Coding Theory,2008 (Arıkan),theorem,7,https://en.wikipedia.org/wiki/Polar_code_(coding_theory)
+algebraic_geometry_codes,Algebraic-geometry (Goppa) codes,Coding Theory,1981,theorem,8,https://en.wikipedia.org/wiki/Algebraic_geometry_code
+cryptography_basics,Cryptography fundamentals,Cryptography,Ancient-20th c.,definition,3,https://en.wikipedia.org/wiki/Cryptography
+rsa_cryptosystem,RSA public-key cryptosystem,Cryptography,1977,theorem,6,https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+elliptic_curve_cryptography,Elliptic-curve cryptography,Cryptography,1985,theorem,7,https://en.wikipedia.org/wiki/Elliptic-curve_cryptography
+discrete_log_problem,Discrete logarithm problem,Cryptography,1976,open_problem,6,https://en.wikipedia.org/wiki/Discrete_logarithm
+counting_principles,Basic counting principles,Combinatorics,Ancient,definition,1,
+pigeonhole_principle,Pigeonhole principle,Combinatorics,1834 (Dirichlet),theorem,2,https://en.wikipedia.org/wiki/Pigeonhole_principle
+binomial_theorem,Binomial theorem,Combinatorics,Ancient-1665,theorem,2,https://en.wikipedia.org/wiki/Binomial_theorem
+pascals_triangle,Pascal's triangle,Combinatorics,Ancient/1653,object,1,https://en.wikipedia.org/wiki/Pascal%27s_triangle
+generating_functions,Generating functions,Combinatorics,18th c. (Euler),definition,4,https://en.wikipedia.org/wiki/Generating_function
+inclusion_exclusion,Inclusion–exclusion principle,Combinatorics,18th-19th c.,theorem,3,https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle
+permutations_combinations,Permutations & combinations,Combinatorics,Ancient,definition,1,https://en.wikipedia.org/wiki/Permutation
+catalan_numbers,Catalan numbers,Combinatorics,18th c. (Euler/Catalan),object,3,https://en.wikipedia.org/wiki/Catalan_number
+polya_enumeration,Pólya enumeration theorem,Combinatorics,1937,theorem,6,https://en.wikipedia.org/wiki/P%C3%B3lya_enumeration_theorem
+design_theory,Combinatorial design theory,Combinatorics,19th c.-present,definition,5,https://en.wikipedia.org/wiki/Combinatorial_design
+latin_squares,Latin squares,Combinatorics,18th c. (Euler),object,3,https://en.wikipedia.org/wiki/Latin_square
+block_designs,Block designs (BIBDs),Combinatorics,19th-20th c.,definition,5,https://en.wikipedia.org/wiki/Block_design
+graph_definitions,"Graphs: vertices, edges, degree",Graph Theory,1736,definition,1,https://en.wikipedia.org/wiki/Graph_theory
+euler_konigsberg,Euler & the Seven Bridges of Königsberg,Graph Theory,1736,theorem,2,https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg
+eulerian_hamiltonian,Eulerian and Hamiltonian paths,Graph Theory,1736/1857,theorem,3,https://en.wikipedia.org/wiki/Eulerian_path
+trees_graph_theory,Trees & spanning trees,Graph Theory,1857 (Cayley),definition,3,https://en.wikipedia.org/wiki/Tree_(graph_theory)
+cayley_tree_formula,Cayley's formula for labeled trees,Graph Theory,1889,theorem,4,https://en.wikipedia.org/wiki/Cayley%27s_formula
+graph_coloring,Graph coloring,Graph Theory,1852,definition,3,https://en.wikipedia.org/wiki/Graph_coloring
+four_color_theorem,Four Color Theorem,Graph Theory,1852/1976,theorem,7,https://en.wikipedia.org/wiki/Four_color_theorem
+chromatic_polynomial,Chromatic polynomial,Graph Theory,1912,definition,4,https://en.wikipedia.org/wiki/Chromatic_polynomial
+ramsey_theory,Ramsey's theorem,Combinatorics,1930,theorem,6,https://en.wikipedia.org/wiki/Ramsey%27s_theorem
+ramsey_numbers,"Ramsey numbers R(m,n)",Combinatorics,1930-present,open_problem,7,https://en.wikipedia.org/wiki/Ramsey%27s_theorem#Ramsey_numbers
+extremal_graph_theory,Extremal graph theory (Turán),Graph Theory,1941,theorem,5,https://en.wikipedia.org/wiki/Extremal_graph_theory
+turan_theorem,Turán's theorem,Graph Theory,1941,theorem,5,https://en.wikipedia.org/wiki/Tur%C3%A1n%27s_theorem
+planar_graphs,Planar graphs & Kuratowski's theorem,Graph Theory,1930,theorem,5,https://en.wikipedia.org/wiki/Planar_graph
+eulers_formula_planar,Euler's formula for planar graphs (V-E+F=2),Graph Theory,1750,theorem,3,https://en.wikipedia.org/wiki/Euler%27s_formula#Topology
+graph_minors_rs,Robertson–Seymour graph minor theorem,Graph Theory,1983-2004,theorem,9,https://en.wikipedia.org/wiki/Robertson%E2%80%93Seymour_theorem
+probabilistic_method,Probabilistic method (Erdős),Combinatorics,1947,theorem,6,https://en.wikipedia.org/wiki/Probabilistic_method
+random_graphs,Random graphs (Erdős–Rényi),Graph Theory,1959,theorem,6,https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model
+szemeredi_regularity,Szemerédi regularity lemma,Graph Theory,1975,theorem,8,https://en.wikipedia.org/wiki/Szemer%C3%A9di_regularity_lemma
+szemeredi_theorem,Szemerédi's theorem (arithmetic progressions),Combinatorics,1975,theorem,8,https://en.wikipedia.org/wiki/Szemer%C3%A9di%27s_theorem
+van_der_waerden,Van der Waerden's theorem,Combinatorics,1927,theorem,6,https://en.wikipedia.org/wiki/Van_der_Waerden%27s_theorem
+green_tao_theorem,Green–Tao theorem (primes in AP),Number Theory,2004,theorem,9,https://en.wikipedia.org/wiki/Green%E2%80%93Tao_theorem
+matroid_theory,Matroid theory,Combinatorics,1935 (Whitney),definition,6,https://en.wikipedia.org/wiki/Matroid
+network_flows,Network flows (max-flow min-cut),Graph Theory,1956,theorem,5,https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem
+limits_epsilon_delta,ε–δ definition of limit,Analysis,1821 (Cauchy),definition,2,https://en.wikipedia.org/wiki/Limit_of_a_function
+continuity,Continuity,Analysis,1821,definition,2,https://en.wikipedia.org/wiki/Continuous_function
+uniform_continuity,Uniform continuity,Analysis,1870 (Heine),definition,3,https://en.wikipedia.org/wiki/Uniform_continuity
+derivative_def,Derivative (differential calculus),Analysis,1665-1675 (Newton/Leibniz),definition,2,https://en.wikipedia.org/wiki/Derivative
+newton_leibniz_calculus,Newton–Leibniz calculus & notation dispute,Analysis,1665-1675,object,3,https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy
+mean_value_theorem,Mean Value Theorem,Analysis,1823 (Cauchy),theorem,3,https://en.wikipedia.org/wiki/Mean_value_theorem
+rolles_theorem,Rolle's Theorem,Analysis,1691,theorem,2,https://en.wikipedia.org/wiki/Rolle%27s_theorem
+riemann_integral,Riemann integral,Analysis,1854,definition,3,https://en.wikipedia.org/wiki/Riemann_integral
+fundamental_thm_calculus,Fundamental Theorem of Calculus,Analysis,17th c.,theorem,3,https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus
+sequences_series,"Sequences and series, convergence",Analysis,18th-19th c.,definition,2,https://en.wikipedia.org/wiki/Series_(mathematics)
+cauchy_sequences,Cauchy sequences & completeness,Analysis,1821,definition,3,https://en.wikipedia.org/wiki/Cauchy_sequence
+uniform_convergence,Uniform convergence,Analysis,1841 (Weierstrass),definition,3,https://en.wikipedia.org/wiki/Uniform_convergence
+weierstrass_rigor,Weierstrass's arithmetization of analysis,Analysis,1850s-1870s,object,5,https://en.wikipedia.org/wiki/Karl_Weierstrass
+weierstrass_function,"Weierstrass function (continuous, nowhere differentiable)",Analysis,1872,theorem,5,https://en.wikipedia.org/wiki/Weierstrass_function
+power_series,Power series & radius of convergence,Analysis,18th-19th c.,definition,3,https://en.wikipedia.org/wiki/Power_series
+taylor_series,Taylor series,Analysis,1715,theorem,3,https://en.wikipedia.org/wiki/Taylor_series
+complex_analysis_holomorphy,Holomorphic functions & Cauchy–Riemann eqs,Complex Analysis,1821-1851,definition,4,https://en.wikipedia.org/wiki/Holomorphic_function
+cauchy_integral_theorem,Cauchy's integral theorem/formula,Complex Analysis,1825-1831,theorem,5,https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem
+laurent_series,Laurent series,Complex Analysis,1843,theorem,5,https://en.wikipedia.org/wiki/Laurent_series
+residue_theorem,Residue theorem,Complex Analysis,1831,theorem,5,https://en.wikipedia.org/wiki/Residue_theorem
+conformal_mapping,Conformal mappings,Complex Analysis,19th c.,definition,5,https://en.wikipedia.org/wiki/Conformal_map
+riemann_mapping_theorem,Riemann Mapping Theorem,Complex Analysis,1851/1900,theorem,7,https://en.wikipedia.org/wiki/Riemann_mapping_theorem
+analytic_continuation,Analytic continuation,Complex Analysis,19th c.,theorem,6,https://en.wikipedia.org/wiki/Analytic_continuation
+riemann_surfaces,Riemann surfaces,Complex Analysis,1851,definition,7,https://en.wikipedia.org/wiki/Riemann_surface
+elliptic_functions,Elliptic functions,Complex Analysis,19th c. (Abel/Jacobi/Weierstrass),definition,6,https://en.wikipedia.org/wiki/Elliptic_function
+modular_functions_j_invariant,Modular functions & j-invariant,Complex Analysis,19th c.,definition,8,https://en.wikipedia.org/wiki/J-invariant
+measure_theory,Measure theory (Lebesgue),Analysis,1902,definition,5,https://en.wikipedia.org/wiki/Measure_(mathematics)
+sigma_algebras,σ-algebras & measurable sets,Analysis,1902-1915,definition,4,https://en.wikipedia.org/wiki/%CE%A3-algebra
+lebesgue_integral,Lebesgue integral,Analysis,1904,theorem,5,https://en.wikipedia.org/wiki/Lebesgue_integration
+convergence_theorems_measure,Dominated/monotone convergence theorems,Analysis,1908 (Lebesgue),theorem,5,https://en.wikipedia.org/wiki/Dominated_convergence_theorem
+lp_spaces,L^p spaces,Functional Analysis,1910 (Riesz),definition,5,https://en.wikipedia.org/wiki/Lp_space
+functional_analysis_basics,Normed & Banach spaces,Functional Analysis,1920-1932,definition,5,https://en.wikipedia.org/wiki/Banach_space
+hahn_banach,Hahn–Banach theorem,Functional Analysis,1927-1932,theorem,6,https://en.wikipedia.org/wiki/Hahn%E2%80%93Banach_theorem
+open_mapping_closed_graph,Open mapping & closed graph theorems,Functional Analysis,1929-1932 (Banach),theorem,6,https://en.wikipedia.org/wiki/Open_mapping_theorem_(functional_analysis)
+hilbert_spaces,Hilbert spaces,Functional Analysis,1904-1912,definition,5,https://en.wikipedia.org/wiki/Hilbert_space
+orthonormal_bases,Orthonormal bases & Bessel/Parseval,Functional Analysis,1900s-1920s,theorem,5,https://en.wikipedia.org/wiki/Orthonormal_basis
+bounded_linear_operators,Bounded linear operators,Functional Analysis,1920s-1930s,definition,5,https://en.wikipedia.org/wiki/Bounded_operator
+spectral_theory_operators,Spectral theory of operators,Functional Analysis,1929 (von Neumann),theorem,8,https://en.wikipedia.org/wiki/Spectral_theory
+self_adjoint_operators,Self-adjoint & unbounded operators,Functional Analysis,1929-1932 (von Neumann),definition,7,https://en.wikipedia.org/wiki/Self-adjoint_operator
+c_star_algebras,C*-algebras & von Neumann algebras,Functional Analysis,1943 (Gelfand–Naimark),definition,8,https://en.wikipedia.org/wiki/C*-algebra
+fourier_analysis,Fourier series & transforms,Analysis,1807-1822 (Fourier),theorem,4,https://en.wikipedia.org/wiki/Fourier_analysis
+fourier_convergence_problem,Convergence of Fourier series (Dirichlet–Carleson),Analysis,1829-1966,theorem,7,https://en.wikipedia.org/wiki/Convergence_of_Fourier_series
+carleson_theorem,Carleson's theorem,Analysis,1966,theorem,8,https://en.wikipedia.org/wiki/Carleson%27s_theorem
+distributions_generalized_fns,Distributions (generalized functions),Functional Analysis,1945-1950 (Schwartz),definition,7,https://en.wikipedia.org/wiki/Distribution_(mathematics)
+sobolev_spaces,Sobolev spaces,Functional Analysis,1930s (Sobolev),definition,7,https://en.wikipedia.org/wiki/Sobolev_space
+harmonic_analysis_abstract,Abstract harmonic analysis,Functional Analysis,1930s-1950s,theorem,8,https://en.wikipedia.org/wiki/Harmonic_analysis
+pontryagin_duality,Pontryagin duality,Functional Analysis,1934,theorem,8,https://en.wikipedia.org/wiki/Pontryagin_duality
+real_analysis_metric_spaces,Metric spaces,Analysis,1906 (Fréchet),definition,3,https://en.wikipedia.org/wiki/Metric_space
+banach_fixed_point,Banach fixed-point theorem,Analysis,1922,theorem,4,https://en.wikipedia.org/wiki/Banach_fixed-point_theorem
+calculus_of_variations,Calculus of variations,Analysis,17th-18th c. (Euler/Lagrange),definition,5,https://en.wikipedia.org/wiki/Calculus_of_variations
+euler_lagrange_eq,Euler–Lagrange equation,Analysis,1750s,theorem,5,https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation
+euclid_axioms_geometry,Euclid's postulates (Elements),Geometry,c.300 BCE,axiom,1,https://en.wikipedia.org/wiki/Euclidean_geometry
+euclid_elements,Euclid's Elements,Geometry,c.300 BCE,object,3,https://en.wikipedia.org/wiki/Euclid%27s_Elements
+parallel_postulate,Parallel postulate (5th postulate),Geometry,c.300 BCE,axiom,2,https://en.wikipedia.org/wiki/Parallel_postulate
+saccheri_attempts,Saccheri's attempted proofs of postulate 5,Geometry,1733,object,3,https://en.wikipedia.org/wiki/Giovanni_Girolamo_Saccheri
+non_euclidean_geometry,Non-Euclidean geometries (hyperbolic/elliptic),Geometry,1830s (Lobachevsky/Bolyai),theorem,5,https://en.wikipedia.org/wiki/Non-Euclidean_geometry
+hyperbolic_geometry,Hyperbolic geometry,Geometry,1830s,object,5,https://en.wikipedia.org/wiki/Hyperbolic_geometry
+elliptic_geometry,Elliptic/spherical geometry,Geometry,19th c. (Riemann),object,5,https://en.wikipedia.org/wiki/Elliptic_geometry
+klein_erlangen_program,Klein's Erlangen program,Geometry,1872,theorem,7,https://en.wikipedia.org/wiki/Erlangen_program
+projective_geometry,Projective geometry,Geometry,17th-19th c.,definition,4,https://en.wikipedia.org/wiki/Projective_geometry
+riemannian_geometry,Riemannian geometry,Geometry,1854 (Riemann),theorem,7,https://en.wikipedia.org/wiki/Riemannian_geometry
+gauss_curvature,Gauss's Theorema Egregium,Geometry,1827,theorem,6,https://en.wikipedia.org/wiki/Theorema_Egregium
+gauss_bonnet_theorem,Gauss–Bonnet theorem,Geometry,19th c./1940s,theorem,7,https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem
+riemannian_metric_tensor,Riemannian metric tensor,Geometry,1854/1868,definition,6,https://en.wikipedia.org/wiki/Metric_tensor
+geodesics,Geodesics,Geometry,18th-19th c.,definition,5,https://en.wikipedia.org/wiki/Geodesic
+curvature_tensor_ricci,Riemann curvature tensor & Ricci curvature,Geometry,1861-1900 (Riemann/Ricci),definition,7,https://en.wikipedia.org/wiki/Riemann_curvature_tensor
+general_relativity_geometry,General relativity (pseudo-Riemannian geometry),Geometry,1915 (Einstein),theorem,8,https://en.wikipedia.org/wiki/General_relativity
+einstein_field_equations,Einstein field equations,Mathematical Physics,1915,theorem,8,https://en.wikipedia.org/wiki/Einstein_field_equations
+differential_manifolds,Differentiable manifolds,Topology,20th c.,definition,6,https://en.wikipedia.org/wiki/Differentiable_manifold
+tangent_bundles,Tangent bundles & vector fields,Topology,20th c.,definition,6,https://en.wikipedia.org/wiki/Tangent_bundle
+differential_forms,Differential forms & exterior calculus,Topology,1899 (Cartan),definition,6,https://en.wikipedia.org/wiki/Differential_form
+stokes_theorem_general,Generalized Stokes' theorem,Topology,19th-20th c.,theorem,6,https://en.wikipedia.org/wiki/Stokes%27_theorem
+de_rham_cohomology,De Rham cohomology,Algebraic Topology,1931,theorem,8,https://en.wikipedia.org/wiki/De_Rham_cohomology
+point_set_topology,"Point-set topology (open sets, axioms)",Topology,1906-1914 (Fréchet/Hausdorff),axiom,3,https://en.wikipedia.org/wiki/General_topology
+hausdorff_spaces,Hausdorff & separation axioms,Topology,1914,definition,4,https://en.wikipedia.org/wiki/Hausdorff_space
+continuity_topological,Continuity in topological spaces,Topology,1914,definition,4,https://en.wikipedia.org/wiki/Continuous_function
+compactness,Compactness,Topology,1900s-1920s,definition,4,https://en.wikipedia.org/wiki/Compact_space
+heine_borel,Heine–Borel theorem,Topology,1872-1895,theorem,4,https://en.wikipedia.org/wiki/Heine%E2%80%93Borel_theorem
+connectedness,Connectedness,Topology,20th c.,definition,3,https://en.wikipedia.org/wiki/Connected_space
+homotopy,Homotopy & fundamental group,Algebraic Topology,1895 (Poincaré),definition,5,https://en.wikipedia.org/wiki/Homotopy
+covering_spaces,Covering spaces,Algebraic Topology,1913 (Weyl),definition,6,https://en.wikipedia.org/wiki/Covering_space
+van_kampen_theorem,Van Kampen's theorem,Algebraic Topology,1933,theorem,6,https://en.wikipedia.org/wiki/Seifert%E2%80%93van_Kampen_theorem
+homology_theory,Homology theory (simplicial/singular),Algebraic Topology,1895-1925,theorem,6,https://en.wikipedia.org/wiki/Homology_(mathematics)
+cohomology_theory,Cohomology theory & cup products,Algebraic Topology,1930s-1940s,theorem,7,https://en.wikipedia.org/wiki/Cohomology
+eilenberg_steenrod_axioms,Eilenberg–Steenrod axioms,Algebraic Topology,1945,axiom,8,https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steenrod_axioms
+homotopy_groups_higher,Higher homotopy groups π_n,Algebraic Topology,1930s (Hurewicz),definition,7,https://en.wikipedia.org/wiki/Homotopy_group
+fiber_bundles,Fiber bundles,Algebraic Topology,1930s-1940s,definition,7,https://en.wikipedia.org/wiki/Fiber_bundle
+characteristic_classes,Characteristic classes,Algebraic Topology,1930s-1950s,definition,8,https://en.wikipedia.org/wiki/Characteristic_class
+k_theory,K-theory,Algebraic Topology,1957-1961 (Atiyah–Hirzebruch),theorem,9,https://en.wikipedia.org/wiki/K-theory
+atiyah_singer_index,Atiyah–Singer index theorem,Algebraic Topology,1963,theorem,9,https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem
+poincare_conjecture,Poincaré Conjecture,Topology,1904/2003,theorem,10,https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture
+perelman_ricci_flow,Perelman's proof via Ricci flow,Topology,2002-2003,theorem,10,https://en.wikipedia.org/wiki/Ricci_flow#Perelman's_proof
+ricci_flow_hamilton,Hamilton's Ricci flow program,Topology,1982,theorem,9,https://en.wikipedia.org/wiki/Ricci_flow
+geometrization_conjecture,Thurston's Geometrization Conjecture,Topology,1982/2003,theorem,10,https://en.wikipedia.org/wiki/Geometrization_conjecture
+classification_surfaces,Classification of compact surfaces,Topology,19th-20th c.,theorem,6,https://en.wikipedia.org/wiki/Surface_(topology)#Classification_of_closed_surfaces
+classification_3manifolds,Classification problem for 3-manifolds,Topology,20th c.,definition,8,https://en.wikipedia.org/wiki/3-manifold
+smooth_4manifolds,Smooth structures on 4-manifolds (Donaldson/Freedman),Topology,1982-1983,theorem,9,https://en.wikipedia.org/wiki/Donaldson_theory
+exotic_spheres,Exotic spheres,Topology,1956 (Milnor),theorem,9,https://en.wikipedia.org/wiki/Exotic_sphere
+knot_theory,Knot theory,Topology,19th c.-present,definition,5,https://en.wikipedia.org/wiki/Knot_theory
+jones_polynomial,Jones polynomial,Topology,1984,theorem,7,https://en.wikipedia.org/wiki/Jones_polynomial
+hodge_conjecture,Hodge Conjecture,Algebraic Geometry,1950,conjecture,10,https://en.wikipedia.org/wiki/Hodge_conjecture
+hodge_theory,Hodge theory,Algebraic Geometry,1930s-1950s,theorem,9,https://en.wikipedia.org/wiki/Hodge_theory
+algebraic_geometry_varieties,Algebraic varieties,Algebraic Geometry,19th-20th c.,definition,6,https://en.wikipedia.org/wiki/Algebraic_geometry
+projective_varieties,Projective varieties,Algebraic Geometry,19th-20th c.,definition,6,https://en.wikipedia.org/wiki/Projective_variety
+bezout_theorem_ag,Bézout's theorem (intersection theory),Algebraic Geometry,1779/19th c.,theorem,6,https://en.wikipedia.org/wiki/B%C3%A9zout%27s_theorem
+riemann_roch_theorem,Riemann–Roch theorem,Algebraic Geometry,1857-1865,theorem,8,https://en.wikipedia.org/wiki/Riemann%E2%80%93Roch_theorem
+grothendieck_riemann_roch,Grothendieck–Riemann–Roch theorem,Algebraic Geometry,1957,theorem,9,https://en.wikipedia.org/wiki/Grothendieck%E2%80%93Riemann%E2%80%93Roch_theorem
+grothendieck_schemes,Grothendieck's scheme theory,Algebraic Geometry,1960s,theorem,9,https://en.wikipedia.org/wiki/Scheme_(mathematics)
+sheaf_theory,Sheaf theory,Algebraic Geometry,1945 (Leray),definition,8,https://en.wikipedia.org/wiki/Sheaf_(mathematics)
+etale_cohomology,Étale cohomology,Algebraic Geometry,1960s (Grothendieck),theorem,9,https://en.wikipedia.org/wiki/%C3%89tale_cohomology
+weil_conjectures,Weil Conjectures,Algebraic Geometry,1949/1974,theorem,9,https://en.wikipedia.org/wiki/Weil_conjectures
+deligne_weil_proof,Deligne's proof of the Riemann Hypothesis for varieties over finite fields,Algebraic Geometry,1974,theorem,10,https://en.wikipedia.org/wiki/Weil_conjectures#Deligne's_first_proof
+moduli_spaces,Moduli spaces,Algebraic Geometry,19th-20th c.,definition,8,https://en.wikipedia.org/wiki/Moduli_space
+mirror_symmetry,Mirror symmetry,Algebraic Geometry,1990s,conjecture,9,https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)
+calabi_yau_manifolds,Calabi–Yau manifolds,Algebraic Geometry,1954/1978 (Yau),theorem,9,https://en.wikipedia.org/wiki/Calabi%E2%80%93Yau_manifold
+calabi_conjecture,Calabi Conjecture,Algebraic Geometry,1954/1978,theorem,9,https://en.wikipedia.org/wiki/Calabi_conjecture
+minimal_model_program,Minimal model program (Mori theory),Algebraic Geometry,1980s,theorem,9,https://en.wikipedia.org/wiki/Minimal_model_program
+ode_basics,Ordinary differential equations: existence & uniqueness,PDE / Analysis,18th-19th c.,definition,3,https://en.wikipedia.org/wiki/Ordinary_differential_equation
+picard_lindelof,Picard–Lindelöf theorem,PDE / Analysis,1890s,theorem,4,https://en.wikipedia.org/wiki/Picard%E2%80%93Lindel%C3%B6f_theorem
+linear_odes_systems,Linear ODE systems & fundamental matrices,PDE / Analysis,19th c.,definition,4,https://en.wikipedia.org/wiki/Matrix_differential_equation
+pde_basics,Partial differential equations: classification,PDE / Analysis,18th-19th c.,definition,4,https://en.wikipedia.org/wiki/Partial_differential_equation
+laplace_equation,Laplace's equation & harmonic functions,PDE / Analysis,1780s,definition,4,https://en.wikipedia.org/wiki/Laplace%27s_equation
+heat_equation,Heat equation,PDE / Analysis,1822 (Fourier),definition,4,https://en.wikipedia.org/wiki/Heat_equation
+wave_equation,Wave equation,PDE / Analysis,18th c. (d'Alembert),definition,4,https://en.wikipedia.org/wiki/Wave_equation
+separation_of_variables,Separation of variables method,PDE / Analysis,18th c.,theorem,3,https://en.wikipedia.org/wiki/Separation_of_variables
+sturm_liouville_theory,Sturm–Liouville theory,PDE / Analysis,1830s,theorem,6,https://en.wikipedia.org/wiki/Sturm%E2%80%93Liouville_theory
+greens_functions,Green's functions,PDE / Analysis,1828,definition,5,https://en.wikipedia.org/wiki/Green%27s_function
+elliptic_pde_theory,Elliptic PDE regularity theory,PDE / Analysis,20th c.,theorem,7,https://en.wikipedia.org/wiki/Elliptic_partial_differential_equation
+weak_solutions_pde,Weak/distributional solutions to PDEs,PDE / Analysis,1930s-1950s,definition,6,https://en.wikipedia.org/wiki/Weak_solution
+sobolev_embedding,Sobolev embedding theorems,PDE / Analysis,1930s-1960s,theorem,7,https://en.wikipedia.org/wiki/Sobolev_inequality
+navier_stokes_eqs,Navier–Stokes equations,PDE / Analysis,1822-1845,definition,6,https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations
+navier_stokes,Navier–Stokes existence and smoothness,PDE / Analysis,1845/2000,open_problem,10,https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness
+euler_fluid_equations,Euler equations of fluid dynamics,PDE / Analysis,1757,definition,5,https://en.wikipedia.org/wiki/Euler_equations_(fluid_dynamics)
+maxwell_equations,Maxwell's equations,Mathematical Physics,1861-1865,theorem,6,https://en.wikipedia.org/wiki/Maxwell%27s_equations
+classical_mechanics_lagrangian,Lagrangian mechanics,Mathematical Physics,1788,theorem,5,https://en.wikipedia.org/wiki/Lagrangian_mechanics
+hamiltonian_mechanics,Hamiltonian mechanics,Mathematical Physics,1833,theorem,6,https://en.wikipedia.org/wiki/Hamiltonian_mechanics
+symplectic_geometry,Symplectic geometry,Mathematical Physics,20th c.,definition,7,https://en.wikipedia.org/wiki/Symplectic_geometry
+noethers_theorem,Noether's theorem (symmetries & conservation),Mathematical Physics,1918,theorem,7,https://en.wikipedia.org/wiki/Noether%27s_theorem
+quantum_mechanics_formalism,Mathematical formalism of quantum mechanics,Mathematical Physics,1925-1932,theorem,7,https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics
+schrodinger_equation,Schrödinger equation,Mathematical Physics,1926,definition,6,https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+quantum_field_theory_math,Quantum field theory (mathematical aspects),Mathematical Physics,1940s-present,theorem,9,https://en.wikipedia.org/wiki/Quantum_field_theory
+gauge_theory,Gauge theory,Mathematical Physics,1954 (Yang–Mills),definition,8,https://en.wikipedia.org/wiki/Gauge_theory
+yang_mills_equations,Yang–Mills equations,Mathematical Physics,1954,definition,8,https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_theory
+yang_mills_mass_gap,Yang–Mills existence and mass gap,Mathematical Physics,1954/2000,open_problem,10,https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap
+string_theory_math,String theory (mathematical structures),Mathematical Physics,1970s-present,conjecture,9,https://en.wikipedia.org/wiki/String_theory
+classical_probability,Classical probability (Pascal–Fermat correspondence),Probability,1654,definition,2,https://en.wikipedia.org/wiki/Probability_theory#History
+combinatorial_probability,Combinatorial probability,Probability,17th-18th c.,definition,2,https://en.wikipedia.org/wiki/Probability
+random_variables,Random variables & distributions,Probability,18th-19th c.,definition,3,https://en.wikipedia.org/wiki/Random_variable
+expectation_variance,Expectation & variance,Probability,17th-18th c.,definition,2,https://en.wikipedia.org/wiki/Expected_value
+bernoulli_law_large_numbers,Bernoulli's weak law of large numbers,Probability,1713,theorem,4,https://en.wikipedia.org/wiki/Law_of_large_numbers
+de_moivre_laplace,De Moivre–Laplace theorem,Probability,1733/1812,theorem,4,https://en.wikipedia.org/wiki/De_Moivre%E2%80%93Laplace_theorem
+normal_distribution,Normal (Gaussian) distribution,Probability,18th-19th c.,object,3,https://en.wikipedia.org/wiki/Normal_distribution
+central_limit_theorem,Central Limit Theorem,Probability,1810-1935,theorem,6,https://en.wikipedia.org/wiki/Central_limit_theorem
+kolmogorov_axioms,Kolmogorov's axioms of probability,Probability,1933,axiom,5,https://en.wikipedia.org/wiki/Probability_axioms
+probability_measure_spaces,Probability spaces (measure-theoretic),Probability,1933,definition,5,https://en.wikipedia.org/wiki/Probability_space
+strong_law_large_numbers,Strong law of large numbers,Probability,1909-1933 (Kolmogorov),theorem,6,https://en.wikipedia.org/wiki/Law_of_large_numbers#Strong_law
+random_walks,Random walks,Probability,1905 (Pearson),definition,4,https://en.wikipedia.org/wiki/Random_walk
+markov_chains,Markov chains,Probability,1906,definition,4,https://en.wikipedia.org/wiki/Markov_chain
+brownian_motion_math,Brownian motion (mathematical construction),Probability,1900-1923 (Bachelier/Wiener),theorem,7,https://en.wikipedia.org/wiki/Wiener_process
+stochastic_processes,Stochastic processes,Probability,20th c.,definition,5,https://en.wikipedia.org/wiki/Stochastic_process
+martingales,Martingales,Probability,1930s (Lévy/Doob),definition,6,https://en.wikipedia.org/wiki/Martingale_(probability_theory)
+stochastic_calculus_ito,Itô calculus & stochastic integration,Probability,1944,theorem,8,https://en.wikipedia.org/wiki/It%C3%B4_calculus
+stochastic_differential_eqs,Stochastic differential equations,Probability,1940s-1950s,definition,8,https://en.wikipedia.org/wiki/Stochastic_differential_equation
+black_scholes,Black–Scholes model,Probability,1973,theorem,7,https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model
+ergodic_theory,Ergodic theory,Probability,1931 (Birkhoff/von Neumann),theorem,7,https://en.wikipedia.org/wiki/Ergodic_theory
+statistical_inference,Statistical inference,Statistics,19th-20th c.,definition,4,https://en.wikipedia.org/wiki/Statistical_inference
+bayes_theorem,Bayes' theorem,Statistics,1763,theorem,3,https://en.wikipedia.org/wiki/Bayes%27_theorem
+hypothesis_testing,Hypothesis testing (Neyman–Pearson),Statistics,1933,theorem,5,https://en.wikipedia.org/wiki/Statistical_hypothesis_test
+maximum_likelihood,Maximum likelihood estimation,Statistics,1912-1922 (Fisher),theorem,5,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+regression_analysis,Regression analysis,Statistics,1886 (Galton),definition,4,https://en.wikipedia.org/wiki/Regression_analysis
+information_theory_fisher,Fisher information & Cramér–Rao bound,Statistics,1922-1945,theorem,6,https://en.wikipedia.org/wiki/Fisher_information
+dynamical_systems_basics,Dynamical systems: flows & orbits,Dynamical Systems,19th-20th c. (Poincaré),definition,4,https://en.wikipedia.org/wiki/Dynamical_system
+poincare_qualitative_theory,Poincaré's qualitative theory of ODEs,Dynamical Systems,1881-1899,theorem,6,https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9#Qualitative_dynamics
+three_body_problem,Three-body problem & non-integrability,Dynamical Systems,1887-1890,theorem,8,https://en.wikipedia.org/wiki/Three-body_problem
+stability_theory_odes,Stability theory (Lyapunov),Dynamical Systems,1892,theorem,5,https://en.wikipedia.org/wiki/Lyapunov_stability
+fixed_points_bifurcation,Fixed points & bifurcation theory,Dynamical Systems,20th c.,definition,5,https://en.wikipedia.org/wiki/Bifurcation_theory
+chaos_theory,Chaos theory & sensitive dependence,Dynamical Systems,1963 (Lorenz),theorem,6,https://en.wikipedia.org/wiki/Chaos_theory
+lorenz_attractor,Lorenz attractor,Dynamical Systems,1963,object,6,https://en.wikipedia.org/wiki/Lorenz_system
+logistic_map,Logistic map & period doubling,Dynamical Systems,1976 (May),theorem,5,https://en.wikipedia.org/wiki/Logistic_map
+feigenbaum_constants,Feigenbaum constants & universality,Dynamical Systems,1975,theorem,7,https://en.wikipedia.org/wiki/Feigenbaum_constants
+fractals_geometry,Fractal geometry,Dynamical Systems,1975 (Mandelbrot),definition,5,https://en.wikipedia.org/wiki/Fractal
+mandelbrot_julia_sets,Mandelbrot & Julia sets,Dynamical Systems,1918-1980,object,7,https://en.wikipedia.org/wiki/Mandelbrot_set
+hausdorff_dimension,Hausdorff dimension,Dynamical Systems,1918,definition,6,https://en.wikipedia.org/wiki/Hausdorff_dimension
+kam_theory,KAM theory (Kolmogorov–Arnold–Moser),Dynamical Systems,1954-1963,theorem,9,https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem
+smale_horseshoe,Smale horseshoe map,Dynamical Systems,1967,theorem,7,https://en.wikipedia.org/wiki/Horseshoe_map
+numerical_analysis_basics,Numerical analysis: error & approximation,Numerical Analysis,Ancient-20th c.,definition,3,https://en.wikipedia.org/wiki/Numerical_analysis
+newtons_method,Newton's method (root-finding),Numerical Analysis,1669,theorem,3,https://en.wikipedia.org/wiki/Newton%27s_method
+interpolation_theory,Polynomial interpolation (Lagrange/Newton),Numerical Analysis,18th-19th c.,theorem,3,https://en.wikipedia.org/wiki/Polynomial_interpolation
+numerical_integration,Numerical integration (quadrature),Numerical Analysis,17th-19th c.,definition,3,https://en.wikipedia.org/wiki/Numerical_integration
+gaussian_quadrature,Gaussian quadrature,Numerical Analysis,1814,theorem,5,https://en.wikipedia.org/wiki/Gaussian_quadrature
+numerical_linear_algebra,Numerical linear algebra,Numerical Analysis,20th c.,definition,4,https://en.wikipedia.org/wiki/Numerical_linear_algebra
+gaussian_elimination,Gaussian elimination & LU decomposition,Numerical Analysis,Ancient China/19th c.,theorem,3,https://en.wikipedia.org/wiki/Gaussian_elimination
+iterative_methods_linalg,"Iterative methods (Jacobi, Gauss-Seidel, CG)",Numerical Analysis,19th-20th c.,theorem,5,https://en.wikipedia.org/wiki/Conjugate_gradient_method
+finite_difference_methods,Finite difference methods for PDEs,Numerical Analysis,20th c.,theorem,5,https://en.wikipedia.org/wiki/Finite_difference_method
+finite_element_methods,Finite element method,Numerical Analysis,1940s-1960s,theorem,6,https://en.wikipedia.org/wiki/Finite_element_method
+numerical_stability_theory,Numerical stability & convergence (Lax equivalence),Numerical Analysis,1950s,theorem,6,https://en.wikipedia.org/wiki/Lax_equivalence_theorem
+fast_fourier_transform,Fast Fourier Transform (Cooley–Tukey),Numerical Analysis,1965 (Gauss 1805),theorem,6,https://en.wikipedia.org/wiki/Fast_Fourier_transform
+floating_point_arithmetic,Floating-point arithmetic & IEEE 754,Numerical Analysis,1985,definition,4,https://en.wikipedia.org/wiki/IEEE_754
+monte_carlo_methods,Monte Carlo methods,Numerical Analysis,1940s (Ulam/von Neumann),theorem,5,https://en.wikipedia.org/wiki/Monte_Carlo_method
+optimization_theory,Mathematical optimization,Numerical Analysis,18th-20th c.,definition,4,https://en.wikipedia.org/wiki/Mathematical_optimization
+linear_programming,Linear programming & simplex method,Numerical Analysis,1947 (Dantzig),theorem,5,https://en.wikipedia.org/wiki/Linear_programming
+convex_optimization,Convex optimization & duality,Numerical Analysis,20th c.,theorem,6,https://en.wikipedia.org/wiki/Convex_optimization
+karush_kuhn_tucker,Karush–Kuhn–Tucker conditions,Numerical Analysis,1939-1951,theorem,6,https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions
+gradient_descent,Gradient descent methods,Numerical Analysis,1847 (Cauchy),theorem,4,https://en.wikipedia.org/wiki/Gradient_descent
+babylonian_mathematics,"Babylonian mathematics (sexagesimal, Plimpton 322)",History,c.1800 BCE,object,3,https://en.wikipedia.org/wiki/Babylonian_mathematics
+babylonian_quadratics,Babylonian methods for quadratic equations,History,c.1800 BCE,theorem,3,https://en.wikipedia.org/wiki/Babylonian_mathematics#Algebra
+egyptian_mathematics,Egyptian mathematics (Rhind Papyrus),History,c.1650 BCE,object,2,https://en.wikipedia.org/wiki/Egyptian_mathematics
+egyptian_fractions,Egyptian fractions,History,c.1650 BCE,definition,2,https://en.wikipedia.org/wiki/Egyptian_fraction
+chinese_mathematics_nine_chapters,Nine Chapters on the Mathematical Art,History,c.200 BCE-100 CE,object,4,https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art
+chinese_remainder_origin,Sunzi's remainder problem (origin of CRT),History,3rd-5th c. CE,theorem,4,https://en.wikipedia.org/wiki/Sunzi_Suanjing
+liu_hui_pi,Liu Hui's algorithm for π,History,263 CE,theorem,4,https://en.wikipedia.org/wiki/Liu_Hui%27s_%CF%80_algorithm
+indian_mathematics_zero,Indian mathematics: zero & place-value system,History,c.500-628 CE (Brahmagupta),definition,5,https://en.wikipedia.org/wiki/Indian_mathematics
+brahmagupta_rules,Brahmagupta's rules for arithmetic with zero,History,628 CE,theorem,4,https://en.wikipedia.org/wiki/Brahmagupta#Arithmetic
+aryabhata_trigonometry,Āryabhaṭa's trigonometry & sine tables,History,499 CE,theorem,4,https://en.wikipedia.org/wiki/Aryabhata#Mathematics
+kerala_school_infinite_series,Kerala school: infinite series for π & trig (Madhava),History,14th-16th c.,theorem,6,https://en.wikipedia.org/wiki/Kerala_school_of_astronomy_and_mathematics
+islamic_golden_age_algebra,Al-Khwārizmī's algebra (al-jabr),History,820 CE,theorem,5,https://en.wikipedia.org/wiki/Al-Khwarizmi
+islamic_algorithm_etymology,Etymology: 'algorithm' & 'algebra',History,820 CE,object,2,https://en.wikipedia.org/wiki/Algorithm#Etymology
+omar_khayyam_cubics,Omar Khayyám's geometric solution of cubics,History,1070 CE,theorem,6,https://en.wikipedia.org/wiki/Omar_Khayyam#Mathematics
+al_karaji_induction,Al-Karajī's early induction & binomial work,History,c.1000 CE,theorem,4,https://en.wikipedia.org/wiki/Al-Karaji
+fibonacci_liber_abaci,Fibonacci's Liber Abaci (transmission to Europe),History,1202,object,4,https://en.wikipedia.org/wiki/Liber_Abaci
+fibonacci_sequence,Fibonacci sequence,Number Theory,1202,object,2,https://en.wikipedia.org/wiki/Fibonacci_sequence
+cardano_cubic_formula,Cardano's formula for the cubic,History,1545,theorem,5,https://en.wikipedia.org/wiki/Cardano%27s_formula
+ferrari_quartic_formula,Ferrari's solution of the quartic,History,1540,theorem,5,https://en.wikipedia.org/wiki/Quartic_function#Ferrari's_solution
